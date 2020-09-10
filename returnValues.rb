@@ -10,6 +10,4 @@
 #end
 #puts "And the Loop is Done"
 
-dishes = ["steak", "apple pie", "vegetable soup"]
-
-p dishes.sort 
+"The rain in Spain lies mainly in the plain".scan(/\w+ain/)
